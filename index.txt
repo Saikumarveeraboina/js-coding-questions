@@ -8,7 +8,6 @@
 //         console.log("not palindrome word :", res);
 //     }
 // }
-
 // reverseFunc("noon")
 
 //2. printing half of string
