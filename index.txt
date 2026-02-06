@@ -20,6 +20,7 @@ JS CODING QUESTIONS
 // }
 // getStringLength("venugopal")
 
+
 //3. finding largest number in array
 // const array = [1,23,4,5,67,12,8,938,94,6,23]
 // let largestNum = 0
@@ -31,6 +32,7 @@ JS CODING QUESTIONS
 // }
 // console.log(largestNum);
 
+
 // other way to find largest number in array
 // const array = [1,23,4,5,67,12,8,938,94,6,23]
 // const findFunc = (num)=>{
@@ -39,6 +41,7 @@ JS CODING QUESTIONS
 //     return Math.max(...res)
 // }
 // console.log(findFunc(array));
+
 
 // //4. find the largest negative number
 // const array = [-11,-23,-4,-5,-67,-12,-8,-938,-94,-1,-23,-80]
@@ -50,6 +53,7 @@ JS CODING QUESTIONS
 //      }
 //  }
 //  console.log(largestNum);
+
 
 //5. removing duplicates in array
 //  const array = [1,23,4,3,4,4,4,4,4,5,67,12,8,938,94,6,2,3,1,2,33]
