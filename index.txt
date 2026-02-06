@@ -20,7 +20,6 @@ JS CODING QUESTIONS
 // }
 // getStringLength("venugopal")
 
-
 //3. finding largest number in array
 // const array = [1,23,4,5,67,12,8,938,94,6,23]
 // let largestNum = 0
