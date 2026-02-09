@@ -1,4 +1,5 @@
-JS CODING QUESTIONS 
+JS CODING QUESTIONS IMPORTANT
+
 
 //1. reversed string logic and finding palindrome string
 // function reverseFunc(str){
