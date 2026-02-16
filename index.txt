@@ -13,6 +13,7 @@ JS CODING QUESTIONS IMPORTANT
 // }
 // reverseFunc("noon")
 
+
 //2. printing half of string
 // const getStringLength = (str)=>{
 //     const res = Math.floor(str.length / 2)
