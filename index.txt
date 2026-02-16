@@ -12,7 +12,6 @@ JS CODING QUESTIONS IMPORTANT
 // }
 // reverseFunc("noon")
 
-
 //2. printing half of string
 // const getStringLength = (str)=>{
 //     const res = Math.floor(str.length / 2)
@@ -31,7 +30,6 @@ JS CODING QUESTIONS IMPORTANT
 //     }
 // }
 // console.log(largestNum);
-
 
 // other way to find largest number in array
 // const array = [1,23,4,5,67,12,8,938,94,6,23]
